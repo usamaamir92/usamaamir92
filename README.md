@@ -1,8 +1,11 @@
-## Hi there 👋 I'm Usama
+<div align="center">
+<h2>Hi there 👋 I'm Usama</h2>
+<br/>
 
 
 <div align="center">
-<h3>### 🧰 Languages and Tools</h3>
+<h3>Languages and Tools</h3>
+<br/>
 
 <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -16,7 +19,7 @@
 
 
 <div align="center">
-<h3>### Contact</h3>
+<h3>Contact</h3>
 
 [usama_amir92@hotmail.com](mailto:usama_amir92@hotmail.com)
 </div>
