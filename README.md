@@ -1,12 +1,11 @@
 <div align="center">
 <h2>Hi there 👋 I'm Usama</h2>
-<br/>
 
+<br/>
 
 <div align="center">
 <h3>Languages and Tools</h3>
 <br/>
-
 <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
