@@ -21,6 +21,11 @@
 [usama_amir92@hotmail.com](mailto:usama_amir92@hotmail.com)
 </div>
 
+### Contact
+<div align="center">
+[usama_amir92@hotmail.com](mailto:usama_amir92@hotmail.com)
+</div>
+
 
 <!--
 **usamaamir92/usamaamir92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
