@@ -1,8 +1,6 @@
 <div align="center">
 <h2>Hi there 👋 I'm Usama</h2>
 
-<br/>
-
 <div align="center">
 <h3>Languages and Tools</h3>
 <br/>
@@ -15,7 +13,6 @@
 <div>
 
 <br/>
-
 
 <div align="center">
 <h3>Contact</h3>
