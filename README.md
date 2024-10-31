@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Usama
 
 
-<div align="center">
 ### 🧰 Languages and Tools
 
+<div align="center">
 <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -14,10 +14,12 @@
 
 <br/>
 
+
 ### Contact
 <div align="center">
 [usama_amir92@hotmail.com](mailto:usama_amir92@hotmail.com)
-<div>
+</div>
+
 
 <!--
 **usamaamir92/usamaamir92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
