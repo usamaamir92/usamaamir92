@@ -15,7 +15,7 @@
 <br/>
 
 ### 📫 Contact
-Linkedin  : <https://www.linkedin.com/in/usamaamir92//>
+Linkedin  : <https://www.linkedin.com/in/usamaamir92/> <br/>
 Email     : [usama_amir92@hotmail.com](mailto:usama_amir92@hotmail.com)
 
 <!--
