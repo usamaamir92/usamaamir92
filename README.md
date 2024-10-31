@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Usama
 
-<br/>
 
 ### 🧰 Languages and Tools
 
