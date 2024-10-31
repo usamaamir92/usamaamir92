@@ -12,11 +12,6 @@
 <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <div>
 
-<br/>
-<br/>
-
-
-Contact     : [usama_amir92@hotmail.com](mailto:usama_amir92@hotmail.com)
 
 <!--
 **usamaamir92/usamaamir92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
