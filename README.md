@@ -1,7 +1,7 @@
-<div align="center">
 ## Hi there 👋 I'm Usama
 
 
+<div align="center">
 ### 🧰 Languages and Tools
 
 <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -13,8 +13,8 @@
 
 <br/>
 
-
-Contact     : [usama_amir92@hotmail.com](mailto:usama_amir92@hotmail.com)
+### Contact
+[usama_amir92@hotmail.com](mailto:usama_amir92@hotmail.com)
 <div>
 
 <!--
