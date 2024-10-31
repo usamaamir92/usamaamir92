@@ -15,8 +15,8 @@
 <br/>
 
 ### 📫 Contact
-- Linkedin  : <https://www.linkedin.com/in/usamaamir92//>
-- Email     : [usama_amir92@hotmail.com](mailto:usama_amir92@hotmail.com)
+Linkedin  : <https://www.linkedin.com/in/usamaamir92//>
+Email     : [usama_amir92@hotmail.com](mailto:usama_amir92@hotmail.com)
 
 <!--
 **usamaamir92/usamaamir92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
