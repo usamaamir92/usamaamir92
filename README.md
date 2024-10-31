@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Usama
 
-<br/>
-
 ### Languages and Tools
 <div>
 <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
